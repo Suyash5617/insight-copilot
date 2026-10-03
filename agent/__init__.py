@@ -1,0 +1,3 @@
+"""
+Insight Copilot Agent Package
+"""
